@@ -1,0 +1,923 @@
+[
+	{
+		"id": "html",
+		"classificationId": "main-root",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "base",
+		"classificationId": "document-metadata",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "head",
+		"classificationId": "document-metadata",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "link",
+		"classificationId": "document-metadata",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "meta",
+		"classificationId": "document-metadata",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "style",
+		"classificationId": "document-metadata",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "title",
+		"classificationId": "document-metadata",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "body",
+		"classificationId": "sectioning-root",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "address",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "article",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "aside",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "footer",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "header",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "h1",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "h2",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "h3",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "h4",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "h5",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "h6",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "hgroup",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "main",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "nav",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "section",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "search",
+		"classificationId": "content-sectioning",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "blockquote",
+		"classificationId": "text-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "dd",
+		"classificationId": "text-content",
+		"href": "/text-content/list#dl",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "div",
+		"classificationId": "text-content",
+		"href": "",
+		"summary": "汎用コンテナ",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "dl",
+		"classificationId": "text-content",
+		"href": "/text-content/list#dl",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "dt",
+		"classificationId": "text-content",
+		"href": "/text-content/list#dl",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "figcaption",
+		"classificationId": "text-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "figure",
+		"classificationId": "text-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "hr",
+		"classificationId": "text-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "li",
+		"classificationId": "text-content",
+		"href": "/text-content/list#ul",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "menu",
+		"classificationId": "text-content",
+		"href": "/text-content/list#menu",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "ol",
+		"classificationId": "text-content",
+		"href": "/text-content/list#ol",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "p",
+		"classificationId": "text-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "pre",
+		"classificationId": "text-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "ul",
+		"classificationId": "text-content",
+		"href": "/text-content/list#ul",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "a",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "abbr",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "b",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "bdi",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "bdo",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "br",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "cite",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "code",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "data",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "dfn",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "em",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "i",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "kbd",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "mark",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "q",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "rp",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "rt",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "ruby",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "s",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "samp",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "small",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "span",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "strong",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "sub",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "sup",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "time",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "u",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "var",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "wbr",
+		"classificationId": "inline-text-semantics",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "area",
+		"classificationId": "image-and-multimedia",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "audio",
+		"classificationId": "image-and-multimedia",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "img",
+		"classificationId": "image-and-multimedia",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "map",
+		"classificationId": "image-and-multimedia",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "track",
+		"classificationId": "image-and-multimedia",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "video",
+		"classificationId": "image-and-multimedia",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "embed",
+		"classificationId": "embedded-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "iframe",
+		"classificationId": "embedded-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "object",
+		"classificationId": "embedded-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "picture",
+		"classificationId": "embedded-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "portal",
+		"classificationId": "embedded-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "source",
+		"classificationId": "embedded-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "svg",
+		"classificationId": "svg-and-mathml",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "math",
+		"classificationId": "svg-and-mathml",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "canvas",
+		"classificationId": "scripting",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "noscript",
+		"classificationId": "scripting",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "script",
+		"classificationId": "scripting",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "del",
+		"classificationId": "demarcating-edits",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "ins",
+		"classificationId": "demarcating-edits",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "caption",
+		"classificationId": "table-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "col",
+		"classificationId": "table-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "colgroup",
+		"classificationId": "table-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "table",
+		"classificationId": "table-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "tbody",
+		"classificationId": "table-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "td",
+		"classificationId": "table-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "tfoot",
+		"classificationId": "table-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "th",
+		"classificationId": "table-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "thead",
+		"classificationId": "table-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "tr",
+		"classificationId": "table-content",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "button",
+		"classificationId": "forms",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "datalist",
+		"classificationId": "forms",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "fieldset",
+		"classificationId": "forms",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "form",
+		"classificationId": "forms",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "input",
+		"classificationId": "forms",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "label",
+		"classificationId": "forms",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "legend",
+		"classificationId": "forms",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "meter",
+		"classificationId": "forms",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "optgroup",
+		"classificationId": "forms",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "option",
+		"classificationId": "forms",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "output",
+		"classificationId": "forms",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "progress",
+		"classificationId": "forms",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "select",
+		"classificationId": "forms",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "textarea",
+		"classificationId": "forms",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "details",
+		"classificationId": "interactive-elements",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "dialog",
+		"classificationId": "interactive-elements",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "summary",
+		"mdnLink": "",
+		"classificationId": "interactive-elements",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "slot",
+		"classificationId": "web-components",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	},
+	{
+		"id": "template",
+		"classificationId": "web-components",
+		"href": "",
+		"summary": "",
+		"mdnLink": "",
+		"deprecated": false
+	}
+]

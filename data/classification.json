@@ -1,0 +1,77 @@
+[
+	{
+		"id": "main-root",
+		"name": "Main root",
+		"label": "メインルート"
+	},
+	{
+		"id": "document-metadata",
+		"name": "Document metadata",
+		"label": "文書メタデータ"
+	},
+	{
+		"id": "sectioning-root",
+		"name": "Sectioning root",
+		"label": "区分化ルート"
+	},
+	{
+		"id": "content-sectioning",
+		"name": "Content sectioning",
+		"label": "コンテンツ区分"
+	},
+	{
+		"id": "text-content",
+		"name": "Text content",
+		"label": "テキストコンテンツ"
+	},
+	{
+		"id": "inline-text-semantics",
+		"name": "Inline text semantics",
+		"label": "インラインテキスト意味付け"
+	},
+	{
+		"id": "image-and-multimedia",
+		"name": "Image and multimedia",
+		"label": "画像とマルチメディア"
+	},
+	{
+		"id": "embedded-content",
+		"name": "Embedded content",
+		"label": "埋め込みコンテンツ"
+	},
+	{
+		"id": "svg-and-mathml",
+		"name": "SVG and MathML",
+		"label": "SVG と MathML"
+	},
+	{
+		"id": "scripting",
+		"name": "Scripting",
+		"label": "スクリプト"
+	},
+	{
+		"id": "demarcating-edits",
+		"name": "Demarcating edits",
+		"label": "編集範囲の特定"
+	},
+	{
+		"id": "table-content",
+		"name": "Table content",
+		"label": "表コンテンツ"
+	},
+	{
+		"id": "forms",
+		"name": "Forms",
+		"label": "フォーム"
+	},
+	{
+		"id": "interactive-elements",
+		"name": "Interactive elements",
+		"label": "インタラクティブ要素"
+	},
+	{
+		"id": "web-components",
+		"name": "Web Components",
+		"label": "ウェブコンポーネント"
+	}
+]
