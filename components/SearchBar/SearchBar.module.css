@@ -1,0 +1,35 @@
+.search {
+	--button-size: 56px;
+	position: relative;
+	margin-block: 2rem;
+}
+
+.input {
+	--padding-inline: 16px;
+	width: calc(100% - var(--button-size) - var(--padding-inline) * 2);
+	height: 100%;
+	padding-block: 8px;
+	padding-inline: var(--padding-inline) calc(var(--padding-inline) + var(--button-size));
+	border-radius: 100px;
+	border: 1px solid var(--light-gray);
+	font-size: 18px;
+}
+
+
+
+.button {
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 100%;
+	width: var(--button-size);
+	padding: 0;
+	background: none;
+	border: none;
+	border-left: 1px solid var(--light-gray);
+	cursor: pointer;
+}
+
+.searchIcon {
+	font-size: 16px;
+}
