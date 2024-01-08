@@ -1,0 +1,15 @@
+.body {
+	--padding-inline: 16px;
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	margin: 0;
+}
+
+.header, .content, .footer {
+	padding-inline: var(--padding-inline);
+}
+
+.content {
+	flex: 1 1 auto;
+}
