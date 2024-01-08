@@ -1,0 +1,36 @@
+.nav {
+	padding: 16px 24px;
+	border-radius: 8px;
+	border: 1px solid var(--light-gray);
+}
+
+
+
+.parentList {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.parentList > li > span {
+	font-weight: 700;
+}
+
+.parentList > li + li {
+	margin-top: 1.5rem;
+}
+
+.childList {
+	list-style-type: "- ";
+}
+
+.nav a {
+	display: block;
+	padding-block: 8px;
+	text-decoration: none;
+	color: currentColor;
+}
+
+.nav a:hover {
+	color: var(--light-gray);
+}
